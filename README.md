@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Akansha 👋</h1>
 
 <p align="center">
-  Computer Science Student @ Mata Sundri College, University of Delhi <br/>
+  Computer Science Student <br/>
   Full Stack Developer | Competitive Programmer | Hackathon Enthusiast
 </p>
 
@@ -10,9 +10,7 @@
 ### 🚀 About Me
 - 🎓 2nd year B.Sc. (Hons) Computer Science student
 - 💻 Building projects with React, Node.js, Flask, and MongoDB
-- 🏆 Hackathon winner — 1st place Mantrana 3.0, 2nd place IIM Raipur Empower BI
 - 🧩 Active competitive programmer on LeetCode and Codeforces
-- 🔍 Currently seeking software engineering internships
 
 ---
 
@@ -54,6 +52,5 @@
 ---
 
 <p align="center">
-  <a href="mailto:your@email.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a>
+  <a href="mailto:akansha.aka11.com">📧 Email</a>
 </p>
