@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Akansha 👋</h1>
 
-<!--
-**Akansha-in/Akansha-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Computer Science Student @ Mata Sundri College, University of Delhi <br/>
+  Full Stack Developer | Competitive Programmer | Hackathon Enthusiast
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 2nd year B.Sc. (Hons) Computer Science student
+- 💻 Building projects with React, Node.js, Flask, and MongoDB
+- 🏆 Hackathon winner — 1st place Mantrana 3.0, 2nd place IIM Raipur Empower BI
+- 🧩 Active competitive programmer on LeetCode and Codeforces
+- 🔍 Currently seeking software engineering internships
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python • JavaScript • C++
+
+**Frontend:** React.js • HTML • CSS • Bootstrap
+
+**Backend:** Node.js • Express.js • Flask
+
+**Databases:** MongoDB • MySQL • Firebase
+
+**Tools:** Git • GitHub • Postman • VS Code • Vercel • Render
+
+---
+
+### 📌 Featured Projects
+
+| Project | Tech | Links |
+|---------|------|-------|
+| **Task Tracker** | MERN Stack | [Live](https://task-tracker-akanshaa.vercel.app/) • [GitHub](https://github.com/Akansha-in/task-tracker) |
+| **HRMS-MCD** | Flask, MySQL, JS | Hack4Delhi Hackathon |
+| **EcoWell Tracker** | Firebase, PWA | GitHub |
+| **AI Prompt Generator** | React, REST API | GitHub |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akansha-in&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akansha-in&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:your@email.com">📧 Email</a> •
+  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a>
+</p>
