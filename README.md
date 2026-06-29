@@ -11,7 +11,7 @@
 - 🎓 2nd year B.Sc. (Hons) Computer Science student
 - 💻 Building projects with React, Node.js, Flask, and MongoDB
 - 🧩 Active competitive programmer on LeetCode and Codeforces
-
+  <!--
 ---
 
 ### 🛠️ Tech Stack
@@ -25,6 +25,9 @@
 **Databases:** MongoDB • MySQL • Firebase
 
 **Tools:** Git • GitHub • Postman • VS Code • Vercel • Render
+
+---
+-->
 
 ---
 
