@@ -28,6 +28,14 @@
 
 ---
 
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,nodejs,express,flask,mongodb,mysql,firebase,git,github,vscode,postman" />
+</p>
+
+---
+
 ### 📌 Featured Projects
 
 | Project | Tech | Links |
